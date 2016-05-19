@@ -60,3 +60,15 @@ Thursday meeting - we wrote out bullet points for each heading for the progress 
 Printing of the chassis will be done by the end of today, leaving only the camera and sensor mounts to be printed.
 Meetings will be on Wednesday AND Thursday this week to ensure everyone can make one.
 Code for opening the gate was completed but not tested.
+Patrick was not at the meeting, and we don't know why.
+Dash had a migraine and let us know.
+
+In the afternoon
+Chintan and Kate got the code for opening the gate working. Nitay and Matt worked on the chassis for Bambi mk II. They created a base for the camera mount by connecting it to the usb port.
+
+Thursday 19th May
+Chintan, Kate and Dash worked on writing out ideas for PID, intersections and motor control when the line is lost. These were written out as comments, with multiple ideas for each so that it is easy to test when Bambi is ready to go.
+
+Matt worked on making the chassis acessible to change the battery without dismantling the entire thing, creating a longer cable for the camera and ...
+
+Patrick was absent.
