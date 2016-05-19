@@ -67,8 +67,8 @@ In the afternoon
 Chintan and Kate got the code for opening the gate working. Nitay and Matt worked on the chassis for Bambi mk II. They created a base for the camera mount by connecting it to the usb port.
 
 Thursday 19th May
-Chintan, Kate and Dash worked on writing out ideas for PID, intersections and motor control when the line is lost. These were written out as comments, with multiple ideas for each so that it is easy to test when Bambi is ready to go.
+Chintan, Kate and Dash worked on writing out ideas for PID(specifically the integral aspect), intersections and motor control when the line is lost. These were written out as comments, with multiple ideas for each so that it is easy to test when Bambi is ready to go.
 
-Matt worked on making the chassis acessible to change the battery without dismantling the entire thing, creating a longer cable for the camera and ...
+Matt worked on making the chassis acessible to change the battery without dismantling the entire thing, creating a longer cable for the camera and making and assembling the new camera mount that attaches to the USB ports, and attaching the side sensors to this mount, to make one mount for all three pieces.
 
 Patrick was absent.
